@@ -1,9 +1,9 @@
 # 2306070005_oishi_AIprogramming-2
 
-Overview
+# Overview
 <img width="766" height="620" alt="システム図 drawio" src="https://github.com/user-attachments/assets/58d494c8-6b20-4241-ac9a-38ac8534bb0d" />
 
-Layout
+# Layout
 <img width="1536" height="1024" alt="レイアウト図" src="https://github.com/user-attachments/assets/190a9de8-b0e5-4b99-9f97-47caf3c39ccb" />
 
 # アプリの内容
